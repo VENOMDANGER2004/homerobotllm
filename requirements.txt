@@ -1,0 +1,9 @@
+#for the visual window:
+pygame>=2.5
+
+# install whichever model client you go with:
+# google-generativeai
+# groq
+# requests        (for a local ollama model)
+# anthropic
+# openai
